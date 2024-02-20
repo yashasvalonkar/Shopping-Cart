@@ -1,0 +1,11 @@
+{
+  "welcomeMessage": "�Bienvenido a nuestro sitio web!",
+  "aboutUs": {
+    "title": "Sobre nosotros",
+    "description": "Obtenga m�s informaci�n sobre nuestra empresa y nuestra misi�n."
+  },
+  "contactUs": {
+    "title": "Cont�ctenos",
+    "description": "Cont�ctenos para cualquier consulta o soporte."
+  }
+}

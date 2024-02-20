@@ -1,0 +1,11 @@
+{
+  "welcomeMessage": "Bienvenue sur notre site web!",
+  "aboutUs": {
+    "title": "� propos de nous",
+    "description": "Apprenez-en davantage sur notre entreprise et notre mission."
+  },
+  "contactUs": {
+    "title": "Contactez-nous",
+    "description": "Contactez-nous pour toute demande d'information ou de support."
+  }
+}
